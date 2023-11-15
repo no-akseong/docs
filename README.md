@@ -8,10 +8,12 @@
 
 ---
 
-# 기능 요약 영상
-<video src="%EC%9A%B8%EC%A7%80%EB%A7%88%EC%83%81%EB%8B%B4%EC%82%AC.mp4" controls title="Title"></video>
+# 기능 동작 영상
+[![mqdefault](https://github.com/no-akseong/docs/assets/137879662/f601121f-0928-4767-8944-fc6d92f2dd99)](https://www.youtube.com/watch?v=d6RwteU4h2A)
 
-https://github.com/no-akseong/docs/blob/main/%EC%9A%B8%EC%A7%80%EB%A7%88%EC%83%81%EB%8B%B4%EC%82%AC.mp4
+
+
+
 
 # 전체 기능
 ![Alt text](이미지/ppt/features.png)
