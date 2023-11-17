@@ -12,7 +12,10 @@
 [![mqdefault](https://github.com/no-akseong/docs/assets/137879662/f601121f-0928-4767-8944-fc6d92f2dd99)](https://www.youtube.com/watch?v=d6RwteU4h2A)
 
 
+# PPT (사진 클릭)
+[![Alt text](image.png)](https://docs.google.com/presentation/d/e/2PACX-1vS1DbAo0T45wGN1pAXcAe19TZu_8Ukn_NVXvRKF0qX8MmX7D0peCsLOcXWjdbG_ZQ/pub?start=false&loop=false&delayms=3000)
 
+---
 
 
 # 전체 기능
@@ -62,13 +65,15 @@ AI챗봇에게 미리 관련내용을 알려주고 관련 질문을 대답할 �
 ## 3. 부가 기능
 - 기록을 토대로 개인의 부정표현 점수 데이터화 -> 민원신청시 필터링
 
+---
 
 # 흐름도
 ![Alt text](이미지/ppt/flow.png)
 
 
-# 아키텍쳐
-준비중
+# 구조도
+![Alt text](이미지/ppt/architecture.png)
+
 
 # 사용된 기술
 ![Alt text](이미지/ppt/tech.png)
