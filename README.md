@@ -9,11 +9,12 @@
 ---
 
 # 기능 동작 영상
-[![mqdefault](https://github.com/no-akseong/docs/assets/137879662/f601121f-0928-4767-8944-fc6d92f2dd99)](https://www.youtube.com/watch?v=d6RwteU4h2A)
+[![mqdefault](https://github.com/no-akseong/docs/assets/137879662/f601121f-0928-4767-8944-fc6d92f2dd99)](https://www.youtube.com/watch?v=_0ZWh2BZyV0)
 
 
 # PPT (사진 클릭)
-[![Alt text](image.png)](https://docs.google.com/presentation/d/e/2PACX-1vS1DbAo0T45wGN1pAXcAe19TZu_8Ukn_NVXvRKF0qX8MmX7D0peCsLOcXWjdbG_ZQ/pub?start=false&loop=false&delayms=3000)
+[![Alt text](표지이미지.png)](https://docs.google.com/presentation/d/1O5GVhKXtHQEy9P4Fh4JR0wHDeW0QXbhh/edit?usp=drive_web&ouid=108436333144199649506&rtpof=true)
+- [미리캔버스 뷰어](https://www.miricanvas.com/v/12oe798)
 
 ---
 
@@ -72,6 +73,7 @@ AI챗봇에게 미리 관련내용을 알려주고 관련 질문을 대답할 �
 
 
 # 구조도
+![Alt text](image.png)
 ![Alt text](이미지/ppt/architecture.png)
 
 
